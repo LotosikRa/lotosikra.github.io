@@ -21,6 +21,7 @@ gems:
   - jekyll-sitemap
   - jekyll-redirect-from
   - jekyll-paginate
+  - jekull-seo-tag
   - rouge
 
 # Collections
